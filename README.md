@@ -38,4 +38,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
-There is `Tennis_solution.ipynb`notebook being available for the problem, the environment and the implementation. The summary is provided on the `report.md'.
+There is `Tennis_solution.ipynb`notebook being available for the problem, the environment and the implementation.
